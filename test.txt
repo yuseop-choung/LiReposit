@@ -1,4 +1,1 @@
-"Hi, I'm master branch."
-
-
-"Hi, I'm secondbranch."//merge modify
+Hi, i'm master branch
